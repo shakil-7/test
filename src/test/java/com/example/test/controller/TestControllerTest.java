@@ -10,7 +10,7 @@ class TestControllerTest {
 
     @Test
     public void test1() {
-
+        Assertions.fail();
     }
 
     @Test
